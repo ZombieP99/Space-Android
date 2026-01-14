@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Space Encyclopedia</string>
+    <string name="app_title">Space Encyclopedia</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="earth_info">Earth is the third planet from the Sun...</string>
+    <string name="mars_info">Mars is the fourth planet from the Sun...</string>
+    <string name="jupiter_info">Jupiter is the fifth planet from the Sun...</string>
+
+
+    <string name="earth_info_ar">الأرض هي الكوكب الثالث من الشمس...</string>
+    <string name="mars_info_ar">المريخ هو الكوكب الرابع من الشمس...</string>
+    <string name="jupiter_info_ar">المشتري هو الكوكب الخامس من الشمس...</string>
+
+    <string name="language">Language:</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="text_size">Text Size:</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="select_planet_info">Select a planet to see details</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">موسوعة الفضاء البسيطة</string>
+    <string name="app_title">موسوعة الفضاء البسيطة</string>
+
+    <string name="earth">الأرض</string>
+    <string name="mars">المريخ</string>
+    <string name="jupiter">المشتري</string>
+
+    <string name="earth_info">الأرض هي الكوكب الثالث من الشمس والجسم الفلكي الوحيد المعروف الذي يؤوي الحياة. يبلغ نصف قطرها 6,371 كيلومتراً، وهي الأكبر من بين الكواكب الأرضية الأربعة.</string>
+    <string name="mars_info">المريخ هو الكوكب الرابع من الشمس وثاني أصغر كوكب في النظام الشمسي. يُشار إليه غالباً باسم "الكوكب الأحمر" بسبب مظهره المحمر.</string>
+    <string name="jupiter_info">المشتري هو الكوكب الخامس من الشمس والأكبر في النظام الشمسي. إنه عملاق غازي بكتلة تزيد عن ضعف ونصف كتلة جميع الكواكب الأخرى مجتمعة.</string>
+
+    <string name="earth_info_ar">الأرض هي الكوكب الثالث من الشمس والجسم الفلكي الوحيد المعروف الذي يؤوي الحياة. يبلغ نصف قطرها 6,371 كيلومتراً، وهي الأكبر من بين الكواكب الأرضية الأربعة.</string>
+    <string name="mars_info_ar">المريخ هو الكوكب الرابع من الشمس وثاني أصغر كوكب في النظام الشمسي. يُشار إليه غالباً باسم "الكوكب الأحمر" بسبب مظهره المحمر.</string>
+    <string name="jupiter_info_ar">المشتري هو الكوكب الخامس من الشمس والأكبر في النظام الشمسي. إنه عملاق غازي بكتلة تزيد عن ضعف ونصف كتلة جميع الكواكب الأخرى مجتمعة.</string>
+
+    <string name="select_planet">اختر كوكباً:</string>
+    <string name="select_planet_info">اختر كوكباً أعلاه لعرض المعلومات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة:</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="text_size">حجم النص:</string>
+    <string name="small">صغير</string>
+    <string name="medium">متوسط</string>
+    <string name="large">كبير</string>
+    <string name="save">حفظ الإعدادات</string>
+</resources>
