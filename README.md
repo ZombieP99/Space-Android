@@ -1,14 +1,8 @@
-﻿# Space-Android
-
-إليك نموذج احترافي لملف **README.md** باللغة الإنجليزية، مصمم خصيصاً لمشروعك "موسوعة الفضاء". يمكنك نسخه ولصقه مباشرة في ملف الـ README داخل أندرويد ستوديو:
-
----
-
-# Space Encyclopedia 🚀
+ Space Encyclopedia 🚀
 
 A professional, interactive Android application designed to explore the planets of our solar system. This app features a modern UI, multi-language support, and customizable reading options.
 
-## 🌟 Key Features
+🌟 Key Features
 
 * **Professional Splash Screen:** Implements the latest **Android 12+ Splash Screen API** for a seamless startup experience.
 * **Localization (Multi-language):** Full support for **English** and **Arabic** with instant UI direction switching (LTR/RTL).
@@ -16,14 +10,14 @@ A professional, interactive Android application designed to explore the planets 
 * **Data Persistence:** Uses `SharedPreferences` to remember the user's preferred language, text size, and last selected planet even after closing the app.
 * **Interactive UI:** Smooth scale animations when interacting with planet icons and visual indicators for the selected planet.
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 * **Language:** Java
 * **UI Framework:** XML (Material Design 3)
 * **Minimum SDK:** API 24 (Android 7.0)
 * **Libraries:** `androidx.core:core-splashscreen`
 
-## 🚀 Installation & Setup
+🚀 Installation & Setup
 
 1. **Clone the Repository:**
 ```bash
@@ -53,3 +47,4 @@ Space Enthusiast & Android Developer
 `![App Preview](screenshots/main_screen.png)`
 
 **هل تريدني أن أضيف أي قسم آخر، مثل "خطط التطوير المستقبلية" (Future Enhancements)؟**
+
